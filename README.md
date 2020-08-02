@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi, I'm Sri Harsha Kantipudi. 👋
 
-<!--
-**harshakantipudi/harshakantipudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Data scientist, Software Developer, and DevOps enginner!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently pursuing on Data Science Masters in University of Bologna!
+- 🌱 I’m currently learning Machine learning, Python, Big Data, NLP, Docker, AWS, Tableau, SQL, Google Analytics
+- 💬 Ask me about Python, C++, Machine learning, and deployement
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I can create a simple web applications in C++ and C# in under a minute!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🏡 [website][website] **|** 
+👔 [linkedin][linkedin]
+
+Shoutout to [Brad Garropy][brad] for the inspiration!
+
+[website]: https://harshakantipudi.github.io/
+[linkedin]: https://www.linkedin.com/in/harshakantipudi/
+
