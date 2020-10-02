@@ -1,6 +1,6 @@
 ### Hi, I'm Sri Harsha Kantipudi. 👋
 
-## I'm a Data scientist, Software Developer, and DevOps enginner!
+## I'm a Data scientist, and AWS- DevOps enginner!
 
 - 🔭 I’m currently pursuing Masters in DataScience at University of Bologna!
 - 🌱 I’m currently learning Machine learning, Python, Big Data, NLP, Docker, AWS, Tableau, SQL, Google Analytics
